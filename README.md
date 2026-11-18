@@ -17,7 +17,6 @@ I enjoy building responsive, user-friendly web applications and continuously imp
 - HTML5
 - CSS3
 - Bootstrap
-- Vite
 - Git & GitHub
 
 ## ✨ Portfolio Features
